@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/rudi-id/static/css/main.7ba95c60.css",
-    "main.js": "/rudi-id/static/js/main.86a0bdab.js",
+    "main.css": "/rudi-id/static/css/main.c2046708.css",
+    "main.js": "/rudi-id/static/js/main.41894f05.js",
     "static/media/type1.jpg": "/rudi-id/static/media/type1.12d2cc29645f4c4684f8.jpg",
     "static/media/header.jpg": "/rudi-id/static/media/header.b16dfd12098b586088e3.jpg",
     "static/media/type2.jpg": "/rudi-id/static/media/type2.52045c4c8d4552ea5ca7.jpg",
     "static/media/type3.jpg": "/rudi-id/static/media/type3.94a24cf1111fc99ecc76.jpg",
     "index.html": "/rudi-id/index.html",
-    "main.7ba95c60.css.map": "/rudi-id/static/css/main.7ba95c60.css.map",
-    "main.86a0bdab.js.map": "/rudi-id/static/js/main.86a0bdab.js.map"
+    "main.c2046708.css.map": "/rudi-id/static/css/main.c2046708.css.map",
+    "main.41894f05.js.map": "/rudi-id/static/js/main.41894f05.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ba95c60.css",
-    "static/js/main.86a0bdab.js"
+    "static/css/main.c2046708.css",
+    "static/js/main.41894f05.js"
   ]
 }
