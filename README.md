@@ -1,6 +1,10 @@
 # MN-Property
 Tugas Besar Pemrogramman Web Lanjut
 
+## Frontend & Backend:
+- Frontend menggunkan react js
+- Backend menggunakan native php, dan firebase(autentikasi)
+
 ## Deskripsi
 MnProperty adalah sebuah website yang dibuat menggunakan react, web ini berguna dalam memasarkan dan mencari produk property seperti rumah, kos, dan lain-lainya.
 
