@@ -3,5 +3,5 @@ Tugas Besar Pemrogramman Web Lanjut
 
 
 ### Account login Admin:
-#### email = admin@gmail.com
-#### pass  = 123456
+email = admin@gmail.com
+pass  = 123456
