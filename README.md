@@ -16,3 +16,6 @@ MnProperty adalah sebuah website yang dibuat menggunakan react, web ini berguna 
 email = admin@gmail.com
 
 pass  = 123456
+
+### PENTING
+Mohon maaf sebelumnya web ini error dikarenakan github tidak mensupport salah satu komponen react yang kami pakai yaitu BrowserRouter dari react-router-dom, sehingga web menjadi tidak fungsional dan tidak dapat bekerja sebagaimana mestinya. Kami sudah mencoba hosting gratis lain seperti heroku, namun heroku sedang ada kendala dan tidak bisa dihosting juga. Kelompok kami sedang merundingkan apakah ingin menyewa domain dan hosting agar web ini dapat ditampilkan dan dinilai.
