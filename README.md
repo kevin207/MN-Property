@@ -34,4 +34,4 @@ Mohon maaf sebelumnya web ini error dikarenakan github tidak mensupport salah sa
 ### Untuk source code dapat dilihat di branch main.
 
 ### Link Website: 
-tubespemweb.xyz
+http://tubespemweb.xyz
