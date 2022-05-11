@@ -29,7 +29,7 @@ MnProperty adalah sebuah website yang dibuat menggunakan react, web ini berguna 
 - password  = 123456
 
 ## PENTING
-Mohon maaf sebelumnya web ini error dikarenakan github tidak mensupport salah satu komponen react yang kami pakai yaitu BrowserRouter dari react-router-dom, sehingga web menjadi tidak fungsional dan tidak dapat bekerja sebagaimana mestinya. Kami sudah mencoba hosting gratis lain seperti heroku, namun heroku sedang ada kendala dan tidak bisa dihosting juga. Kelompok kami sedang merundingkan apakah ingin menyewa domain dan hosting agar web ini dapat ditampilkan dan dinilai.
+Proses CRUD sudah dapat berhasil pada local server, namun setelah melakukan hosting banyak konfigurasi yang perlu diatur ulang, dan kelompok kami masih awam terkait enviroment hosting sehingga belum bisa mengkonfigurasi ulang agar proses CRUD tetap bekerja. Untuk saat ini CRUD yang masih dapat bekerja hanya READ saja. Untuk proses Create, Edit dan Delete masih dapat berfungsi tapi harus dilakukan secara manual di PhpMyAdmin yang disediakan oleh pihak hosting. Terima Kasih!
 
 ### Untuk source code dapat dilihat di branch main.
 
