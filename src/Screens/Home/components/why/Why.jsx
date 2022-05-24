@@ -13,11 +13,11 @@ const Why = () => {
   return (
     <section className="why" id="why">
       <div className="container-section">
-        <Fade direction="down" delay={300} triggerOnce>
+        <Fade direction="down" triggerOnce>
           <h2 className="title">Kenapa harus di MN Property?</h2>
         </Fade>
         <div className="pros">
-          <Fade direction="right" cascade delay={1200} triggerOnce>
+          <Fade direction="right" cascade delay={500} triggerOnce>
             <div className="pro">
               <IoIosHome className="icon" />
               <h4>Fasilitas nyaman</h4>

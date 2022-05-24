@@ -13,16 +13,16 @@ const Edit = () => {
   }, []);
 
   function getProperty() {
-    axios.get(`http://localhost:80/api/user/${id}`).then(function (response) {
-      //console.log(response.data);
+    axios.get(`https://www.tubespemweb.xyz/api/${id}`).then(function (response) {
+      console.log(response.data);
       setInputs(response.data);
     });
   }
 
   const handleSubmit = (event) => {
     event.preventDefault();
-    axios.put(`http://localhost:80/api/user/${id}/edit`, inputs).then(function (response) {
-      //console.log(response.data);
+    axios.put(`https://www.tubespemweb.xyz/api/${id}/edit`, inputs).then(function (response) {
+      console.log(response.data);
       navigate("/properties");
     });
   };

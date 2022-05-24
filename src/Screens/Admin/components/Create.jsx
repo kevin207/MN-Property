@@ -9,7 +9,7 @@ const Create = () => {
 
   const handleSubmit = (event) => {
     event.preventDefault();
-    axios.post("http://localhost:80/api/user/save", inputs).then(function (response) {
+    axios.post("https://www.tubespemweb.xyz/api/", inputs).then(function (response) {
       console.log(response.data);
       navigate("/properties");
     });

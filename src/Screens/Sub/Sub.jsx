@@ -5,7 +5,7 @@ import Header from "./components/header/Header";
 import Content from "./components/content/Content";
 import Footer from "../Home/components/footer/Footer";
 
-const Home = () => {
+const Sub = () => {
   return (
     <>
       <Header />
@@ -15,4 +15,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default Sub;

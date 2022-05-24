@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import { Link } from "react-router-dom";
 
-const Property_List = () => {
+const PropertyList = () => {
   const [properties, setProperties] = useState([]);
 
   //Get Property from database every load
@@ -12,7 +12,7 @@ const Property_List = () => {
 
   //Fucntion to fetch data from database using axios
   function getProperty() {
-    axios.get("http://localhost:80/api/users/").then(function (response) {
+    axios.get("https://www.tubespemweb.xyz/api/").then(function (response) {
       console.log(response.data);
       setProperties(response.data);
     });
@@ -20,7 +20,7 @@ const Property_List = () => {
 
   //Function to delete database data with axios
   const deleteProperty = (id) => {
-    axios.delete(`http://localhost:80/api/user/${id}/delete`).then(function (response) {
+    axios.delete(`https://www.tubespemweb.xyz/api/${id}/delete`).then(function (response) {
       console.log(response.data);
       getProperty();
     });
@@ -72,4 +72,4 @@ const Property_List = () => {
   );
 };
 
-export default Property_List;
+export default PropertyList;

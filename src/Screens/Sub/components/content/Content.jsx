@@ -17,7 +17,7 @@ const Content = () => {
   }, []);
 
   function getProperty() {
-    axios.get("http://localhost:80/api/users/").then(function (response) {
+    axios.get("https://www.tubespemweb.xyz/api/").then(function (response) {
       setProperties(response.data);
     });
   }

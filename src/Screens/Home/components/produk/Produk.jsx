@@ -13,12 +13,12 @@ const Produk = () => {
   return (
     <section className="produk" id="produk">
       <div className="container-section">
-        <Fade direction="down" delay={300} triggerOnce>
+        <Fade direction="down" triggerOnce>
           <h2 className="title">Produk Kami</h2>
         </Fade>
 
         <div className="house-wrap">
-          <Zoom delay={1200} cascade triggerOnce>
+          <Zoom delay={500} cascade triggerOnce>
             <div className="house">
               <img src={IMG1} alt="" className="house-img" />
               <h6>Type 1</h6>
