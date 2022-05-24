@@ -31,7 +31,7 @@ MnProperty adalah sebuah website yang dibuat menggunakan react, web ini berguna 
 ## PENTING
 Proses CRUD semuanya sudah dapat berhasil pada local server, namun setelah melakukan hosting ada beberapa konfigurasi yang perlu diatur ulang, dan kelompok kami masih awam terkait enviroment hosting sehingga belum bisa mengkonfigurasi ulang agar proses CRUD tetap bekerja seluruhnya. Untuk saat ini CRUD yang masih dapat bekerja hanya READ dan CREATE saja. Untuk proses Edit dan Delete masih dapat berfungsi tapi harus dilakukan secara manual di PhpMyAdmin yang disediakan oleh pihak hosting. Terima Kasih!
 
-### Untuk source code dapat dilihat di branch main.
+### Untuk source code dapat dilihat pada folder code
 
 ### Link Website: 
 http://tubespemweb.xyz
